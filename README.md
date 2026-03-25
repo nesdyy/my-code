@@ -23,3 +23,9 @@ bekerja sama dalam project, dan menyimpan hasil karya kita secara online..</p>
 </ul>
 </body>
 </html>
+
+<p>Halaman ini merupakan tampilan awal dari akun GitHub milik Nesdy yang digunakan untuk menyimpan project, berbagi kode program, dan belajar pemrograman.
+Semoga akun ini dapat digunakan dengan baik untuk mengembangkan kemampuan di bidang coding dan teknologi. Akun ini dibuat untuk menyimpan berbagai project, latihan coding, serta tugas yang berhubungan dengan HTML, JavaScript, dan pemrograman lainnya.
+Dengan adanya akun ini, diharapkan Nesdy dapat lebih mudah belajar dan mengembangkan keterampilan di dunia programming.Akun ini digunakan untuk menyimpan hasil coding, tugas, dan project yang telah dibuat.
+Semoga akun ini bisa membantu Nesdy dalam belajar pemrograman dan membuat project yang lebih baik lagi, Terimakasih.</p>
+
